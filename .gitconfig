@@ -1,0 +1,9 @@
+[user]
+	name = GuilhermeBalbino365
+	email = guilherme.balbino2024@outlook.com
+[core]
+	edition = code --wait
+[color]
+	ui = auto
+[init]
+	defaultBranch = main
